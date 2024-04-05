@@ -19,9 +19,9 @@ User Interface (UI) Development: An interactive and user-friendly interface is c
 
 Running Procedure:
 
-1. Create a virtual environment using the command python -m venv venv_name.
+1. Create a virtual environment using the command python -m venv venv.
 2. Activate the virtual environment using venv_name\Scripts\activate.
 3. Install required packages using pip install -r requirements.txt.
 4. Run the Jupyter Notebook file .ipynb if the model needs adjustments.
-5. Alternatively, directly run the Python script Multiple_Disease_Pred.py using Streamlit with the command streamlit run    Multiple_Disease_Pred.py.
+5. Alternatively, directly run the Python script Multiple_Disease_Pred.py using Streamlit with the command streamlit run Multiple_Disease_Pred.py.
 6. This project provides a comprehensive solution for predicting and managing multiple diseases, with a focus on usability and effectiveness.
